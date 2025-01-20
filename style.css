@@ -102,6 +102,7 @@ p {
   color: rgba(207, 207, 207, 1);
   width: 476px;
   height: 90px;
+  line-height: 18px;
 }
 .secondphotoclass {
   position: absolute;
@@ -138,6 +139,7 @@ p {
   color: rgba(255, 255, 255, 1);
   font-size: 13px;
   font-weight: 500;
+  line-height: 18px;
 }
 .thirdprofilephotoclass {
   position: absolute;
@@ -175,6 +177,7 @@ p {
   top: 168px;
   color: rgba(72, 85, 106, 1);
   opacity: 70%;
+  line-height: 18px;
 }
 .jeanetteprofileclass {
   position: absolute;
@@ -212,6 +215,7 @@ p {
   opacity: 70%;
   width: 191px;
   height: 72px;
+  line-height: 18px;
 }
 .patrickprofileclass {
   position: absolute;
@@ -249,4 +253,5 @@ p {
   left: 32px;
   width: 476px;
   height: 72px;
+  line-height: 18px;
 }
