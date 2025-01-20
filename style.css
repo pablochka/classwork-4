@@ -1,0 +1,252 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.desktopClass {
+}
+.mainClass {
+  width: 1440px;
+  height: 900px;
+  background-color: rgba(236, 242, 248, 1);
+  margin: 0 auto;
+  position: relative;
+}
+.danielClass {
+  position: absolute;
+  width: 540px;
+  height: 282px;
+  background-color: rgba(115, 63, 200, 1);
+  left: 165px;
+  top: 164px;
+  border-radius: 8px;
+  position: relative;
+}
+.jeanetteClass {
+  position: absolute;
+  top: 470px;
+  left: 165px;
+  background-color: rgba(255, 255, 255, 1);
+  width: 255px;
+  height: 266px;
+  border-radius: 8px;
+}
+.patrickClass {
+  width: 540px;
+  height: 266px;
+  position: absolute;
+  left: 450px;
+  top: 470px;
+  border-radius: 8px;
+  background-color: rgba(25, 32, 45, 1);
+}
+.jonathanClass {
+  width: 255px;
+  height: 282px;
+  position: absolute;
+  top: 164px;
+  left: 735px;
+  background-color: rgba(72, 85, 106, 1);
+  border-radius: 8px;
+}
+.kiraClass {
+  width: 255px;
+  height: 572px;
+  position: absolute;
+  top: 164px;
+  left: 1020px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8px;
+}
+.firstclassforphoto {
+  position: absolute;
+  left: 32px;
+  top: 26px;
+}
+.firstclassforname {
+  width: 76px;
+  height: 28px;
+  position: absolute;
+  top: 26px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+}
+p {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 1);
+  font-size: 11px;
+  opacity: 50%;
+}
+.firstclassformiddlewritting {
+  position: absolute;
+  left: 32px;
+  top: 72px;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  width: 476px;
+  height: 72px;
+}
+.firstlassforlastwritting {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  position: absolute;
+  top: 160px;
+  left: 32px;
+  font-size: 13px;
+  color: rgba(207, 207, 207, 1);
+  width: 476px;
+  height: 90px;
+}
+.secondphotoclass {
+  position: absolute;
+  left: 32px;
+  top: 26px;
+}
+.secondnameclass {
+  position: absolute;
+  top: 26px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+}
+.secondmiddlewrittingclass {
+  font-weight: 600;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 72px;
+  left: 32px;
+}
+.secondlastwrittingclass {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  position: absolute;
+  font-size: 13px;
+  left: 32px;
+  top: 160px;
+  width: 191px;
+  height: 90px;
+  opacity: 70%;
+  color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  font-weight: 500;
+}
+.thirdprofilephotoclass {
+  position: absolute;
+  left: 32px;
+  top: 26px;
+}
+.thirdnameclass {
+  position: absolute;
+  top: 26px;
+  left: 77px;
+  color: rgba(72, 85, 106, 1);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+}
+.thirdmiddlewrittingclass {
+  position: absolute;
+  left: 32px;
+  top: 72px;
+  font-weight: 600;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 20px;
+  color: rgba(72, 85, 106, 1);
+  width: 191px;
+  height: 72px;
+}
+.thirdlastwrittingclass {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  width: 191px;
+  height: 378px;
+  position: absolute;
+  left: 32px;
+  top: 168px;
+  color: rgba(72, 85, 106, 1);
+  opacity: 70%;
+}
+.jeanetteprofileclass {
+  position: absolute;
+  left: 32px;
+  top: 26px;
+}
+.jeanettenameclass {
+  position: absolute;
+  top: 26px;
+  left: 77px;
+  color: rgba(72, 85, 106, 1);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+}
+.jeanettemiddlewrittingclass {
+  color: rgba(72, 85, 106, 1);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  width: 191px;
+  height: 72px;
+  position: absolute;
+  left: 32px;
+  top: 72px;
+}
+.jeanettelastrittingclass {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  color: rgba(72, 85, 106, 1);
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  top: 168px;
+  left: 32px;
+  opacity: 70%;
+  width: 191px;
+  height: 72px;
+}
+.patrickprofileclass {
+  position: absolute;
+  left: 32px;
+  top: 26px;
+}
+.patricknameclass {
+  position: absolute;
+  top: 26px;
+  left: 77px;
+  color: rgba(255, 255, 255, 1);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+}
+.patrickmiddlewrittingclass {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 20px;
+  width: 476px;
+  height: 72px;
+  color: rgba(236, 242, 248, 1);
+  position: absolute;
+  left: 32px;
+  top: 72px;
+  font-weight: 600;
+}
+.patricklastwrittingclass {
+  color: rgba(255, 255, 255, 1);
+  opacity: 70%;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  top: 168px;
+  left: 32px;
+  width: 476px;
+  height: 72px;
+}
